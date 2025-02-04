@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "数学",
+    "daily_target": 60,
+    "weekly_target": 420,
+    "created_at": "2025-02-01T12:00:00Z",
+    "updated_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "国語",
+    "daily_target": 45,
+    "weekly_target": 315,
+    "created_at": "2025-02-01T12:05:00Z",
+    "updated_at": "2025-02-01T12:05:00Z"
+  }
+]

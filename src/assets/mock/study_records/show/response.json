@@ -1,0 +1,9 @@
+{
+  "id": 10,
+  "subject_id": 1,
+  "study_date": "2025-02-04",
+  "study_minutes": 30,
+  "memo": "教科書の第3章復習",
+  "created_at": "2025-02-04T18:00:00Z",
+  "updated_at": "2025-02-04T18:00:00Z"
+}

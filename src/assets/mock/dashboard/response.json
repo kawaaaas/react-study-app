@@ -1,0 +1,29 @@
+{
+  "today_study_minutes": 90,
+  "week_study_minutes": 350,
+  "total_study_minutes": 1250,
+  "subjects": [
+    {
+      "subject_id": 1,
+      "name": "数学",
+      "today_minutes": 60,
+      "week_minutes": 250,
+      "total_minutes": 900,
+      "daily_target": 60,
+      "weekly_target": 420,
+      "daily_achievement_rate": 1.0,
+      "weekly_achievement_rate": 0.6
+    },
+    {
+      "subject_id": 2,
+      "name": "国語",
+      "today_minutes": 30,
+      "week_minutes": 100,
+      "total_minutes": 350,
+      "daily_target": 45,
+      "weekly_target": 315,
+      "daily_achievement_rate": 0.67,
+      "weekly_achievement_rate": 0.32
+    }
+  ]
+}

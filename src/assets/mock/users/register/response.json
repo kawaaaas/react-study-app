@@ -1,0 +1,8 @@
+{
+  "message": "ユーザー登録に成功しました。",
+  "user": {
+    "id": 1,
+    "username": "sampleuser",
+    "email": "user@example.com"
+  }
+}
