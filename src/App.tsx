@@ -1,5 +1,15 @@
+import { BrowserRouter, Route, Routes } from 'react-router';
+
+import DashBoard from './features/dashboard/DashBoard';
+
 function App() {
-  return <div className="font-bold text-red-400">Hello Study record App</div>;
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route index element={<DashBoard />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
 export default App;
